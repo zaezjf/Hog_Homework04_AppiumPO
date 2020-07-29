@@ -1,0 +1,2 @@
+addmember_ele: "添加成员"
+search_ele: '//android.widget.ListView/preceding-sibling::*[1]/*[2]/*[1]'

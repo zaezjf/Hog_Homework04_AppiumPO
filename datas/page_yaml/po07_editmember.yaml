@@ -1,0 +1,4 @@
+delete_mem_ele: '//*[@text="删除成员"]'
+delete_mem: '删除成员'
+delete_confirm: '//*[@text="确定"]'
+page_back_ele: '//*[@text="编辑成员"]/../../../../android.widget.TextView'

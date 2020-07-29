@@ -1,0 +1,2 @@
+perinfomenu_ele: '//*[@text="个人信息"]/../../../../following-sibling::android.widget.LinearLayout'
+page_back_ele: '//*[@text="个人信息"]/../../../../android.widget.TextView'

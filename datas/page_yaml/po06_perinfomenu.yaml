@@ -1,0 +1,2 @@
+edit_mem_ele: '//*[@text="编辑成员"]'
+page_back_ele: '//*[@text="个人信息"]/../../../../android.widget.TextView'

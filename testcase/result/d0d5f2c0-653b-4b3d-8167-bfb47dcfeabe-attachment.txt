@@ -1,0 +1,9 @@
+INFO     root:basepage.py:21 find: ('xpath', '//*[@text="通讯录"]') and click
+INFO     root:basepage.py:40 scroll to find: 霍格沃兹_02 and click
+INFO     root:basepage.py:21 find: ('xpath', '//*[@text="个人信息"]/../../../../following-sibling::android.widget.LinearLayout') and click
+INFO     root:basepage.py:21 find: ('xpath', '//*[@text="编辑成员"]') and click
+INFO     root:basepage.py:40 scroll to find: 删除成员 and click
+INFO     root:basepage.py:21 find: ('xpath', '//*[@text="确定"]') and click
+INFO     root:basepage.py:21 find: ('xpath', '//android.widget.ListView/preceding-sibling::*[1]/*[2]/*[1]') and click
+INFO     root:basepage.py:26 find: ('xpath', '//android.widget.EditText') and send_keys: 霍格沃兹_02
+INFO     root:basepage.py:21 find: ('xpath', '//android.widget.ListView//*[@text=霍格沃兹_02]') and click

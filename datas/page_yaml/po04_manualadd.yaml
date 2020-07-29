@@ -1,0 +1,7 @@
+input_name_ele: '//*[contains(@text, "姓名")]/..//android.widget.EditText'
+set_gender_ele: '//*[contains(@text, "性别")]/..//android.widget.ImageView/../..'
+man_ele: '//*[@text="男"]'
+woman_ele: '//*[@text="女"]'
+input_phone_ele: '//*[contains(@text, "手机")]/..//android.widget.EditText'
+save_ele: '//*[@text="保存"]'
+page_back_ele: '//*[@text="添加成员"]/../../../../android.widget.TextView'

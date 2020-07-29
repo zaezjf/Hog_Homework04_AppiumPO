@@ -1,0 +1,9 @@
+INFO:root:find: ('xpath', '//*[@text="通讯录"]') and click
+INFO:root:scroll to find: 添加成员 and click
+INFO:root:find: ('xpath', '//*[@text="手动输入添加"]') and click
+INFO:root:find: ('xpath', '//*[contains(@text, "姓名")]/..//android.widget.EditText') and send_keys: 霍格沃兹_02
+INFO:root:find: ('xpath', '//*[contains(@text, "性别")]/..//android.widget.ImageView/../..') and click
+INFO:root:find: ('xpath', '//*[@text="女"]') and click
+INFO:root:find: ('xpath', '//*[contains(@text, "手机")]/..//android.widget.EditText') and send_keys: 13713872904
+INFO:root:find: ('xpath', '//*[@text="保存"]') and click
+INFO:root:webdriver_wait: ('xpath', '//*[@class="android.widget.Toast"]'), timeout: 10
